@@ -16,6 +16,12 @@ section i,
     background-color: #9353FF;
 }
 .posicao{
-    top: 40%;
+    top: 60%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:53%;
+    }
 }
 
