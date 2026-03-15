@@ -1,0 +1,33 @@
+.bg-black {
+  background-color: #000000;
+}
+
+.text-white {
+  color: #ffffff;
+}
+
+.lightGreen {
+  color: #DAFF01;
+}
+
+.texto-pequeno {
+  font-size: 14px;
+}
+
+.btn-light {
+  background-color: #9353FF;
+  border: none;
+}
+
+.div-2 {
+  background-color: #f8f9fa;
+}
+
+.divs-facil i {
+  color: #DAFF01;
+}
+
+footer p {
+  color: #ffffff;
+  margin: 0;
+}
